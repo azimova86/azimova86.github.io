@@ -1,0 +1,27 @@
+body{
+font-family:Tahoma;
+background:url(myBg.jpg);
+ color:yellow;
+}
+img{
+width:200px;
+height:300px;
+}
+li{
+font-size:1em;
+}
+h2{
+text-align:center;
+color:red;
+}
+.wrapper{
+ display: table;
+ margin:0 auto;
+}
+ul{
+text-align:center;
+}
+.des{
+width:500px;
+ text-align:left;
+}
